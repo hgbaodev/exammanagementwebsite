@@ -1,0 +1,1 @@
+One.helpersOnLoad(['js-flatpickr', 'jq-datepicker']);
